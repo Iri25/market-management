@@ -1,4 +1,4 @@
-# market
+# market-management
 Mobile client application developed in Kotlin with server developed in Node.js.
 
 To run the server, execute:
