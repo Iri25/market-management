@@ -7,7 +7,7 @@ npm install
 npm start
 ```
 
-Mobile client application for a market. A market is providing services using a mobile app. The clients are able to view the available products and purchase one or more of them. The clerk is able to manage the stocks.
+Mobile client application for a market management. A market is providing services using a mobile app. The clients are able to view the available products and purchase one or more of them. The clerk is able to manage the stocks.
 
 ### The following details are stored on the server side:
 - Id - the internal product id. Integer value greater than zero.
