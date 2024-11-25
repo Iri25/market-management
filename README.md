@@ -9,7 +9,7 @@ npm start
 
 Mobile client application for a market management. A market is providing services using a mobile app. The clients are able to view the available products and purchase one or more of them. The clerk is able to manage the stocks.
 
-### The following details are stored on the server side:
+## The following details are stored on the server side:
 - Id - the internal product id. Integer value greater than zero.
 - Name - the product name. A string of characters representing the product name.
 - Description - a short product description. A string of characters.
@@ -17,7 +17,7 @@ Mobile client application for a market management. A market is providing service
 - Price - the product price. Integer value greater than zero.
 - Status - the product status. Eg. “new”, “sold”, ”popular”, “discounted”. A string type.
   
-### The application offers the following features:
+## The application offers the following features:
 
 ● Client Section (separate activity - also available offline)
 1. View the products in a list. Using GET /products call, the client will retrieve the list of product available in the system. If offline, the app will display an offline message and a way to retry the connection and the call. For each product the name, quantity and the price are displayed.
